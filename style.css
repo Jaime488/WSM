@@ -49,6 +49,7 @@ section{
     background-color: white;
     display: flex;
     justify-content: center;
+    min-height: 500px;
 }
 
 section div{
